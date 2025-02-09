@@ -1,0 +1,12 @@
+[
+    {
+        "flight_number": "SU100",
+        "destination": "Москва",
+        "departure_time": "12:30"
+    },
+    {
+        "flight_number": "BA200",
+        "destination": "Лондон",
+        "departure_time": "15:45"
+    }
+]
